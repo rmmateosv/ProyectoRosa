@@ -5,6 +5,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Línea 1");
 		System.out.println("Línea 2");
+		System.out.println("Línea 3");
 	}
 
 }
